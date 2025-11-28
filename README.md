@@ -75,12 +75,4 @@ pip install -r requirements.txt
 # Run the Streamlit app
 streamlit run app.py
 
-📬 Contact
 
-For any queries or collaboration:
-
-Your Name
-📧 your-email@example.com
-
-🔗 LinkedIn: your-link
-🐙 GitHub: your-profile
